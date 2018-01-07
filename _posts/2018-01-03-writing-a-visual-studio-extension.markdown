@@ -12,8 +12,10 @@ to experiment with building a basic extension to Visual Studio.
 
 # Creating the project
 
-![New project]({{ site.url }}/assets/new-vsix-project.png)
+![New project]({{ site.url }}/assets/vs-new-vsix-project.png)
 
 First things first, we need to create a new extension project. This can be done by clicking the new project
 button, choosing 'Extensibility' as the project type, and selecting 'VSIX Project'. This will create a new
 project using a template that brings in all things necessary to get started on our extension.
+
+# Adding a button
