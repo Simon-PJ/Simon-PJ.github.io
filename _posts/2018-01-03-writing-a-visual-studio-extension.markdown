@@ -12,7 +12,7 @@ to experiment with building a basic extension to Visual Studio.
 
 # Creating the project
 
-![New project]({{ "../assets/vs-new-vsix-project.png" | absolute_url }})
+![New project](/assets/vs-new-vsix-project.png)
 
 First things first, we need to create a new extension project. This can be done by clicking the new project
 button, choosing 'Extensibility' as the project type, and selecting 'VSIX Project'. This will create a new
