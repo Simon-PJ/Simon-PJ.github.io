@@ -17,8 +17,8 @@ title: Simon Jones
 email: contact@simonpj.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site of Simon Jones. This is a place for me to record things I have learned and done. It is helpful for me; maybe it is for others.
-baseurl: /simon-pj.github.io
-url: simon-pj.github.io
+baseurl: ""
+url: ""
 so_username: simonpj
 so_id: 3257057
 github_username:  Simon-PJ
